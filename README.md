@@ -1,6 +1,9 @@
 # PRCCDC
 PRCCDC Utility scripts
 
+# Multi-platform OS configuration change and automation:
+ * https://github.com/ansible/ansible
+
 # Sysadmin tools:
   * https://github.com/chrisdee/Tools
 
