@@ -20,5 +20,7 @@ PRCCDC Utility scripts
     * https://github.com/chrisdee/Tools/tree/master/Network/CurrPorts
 
 # Windows Network crash course:
- * Windows Domain Controllers
+* Windows Active Directory Basic Management
+   * https://youtu.be/nKcrVtvZvpk
+* Windows Domain Controllers
    * https://youtu.be/cTe5GsyhKUk
