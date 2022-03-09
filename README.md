@@ -18,3 +18,7 @@ PRCCDC Utility scripts
     * https://github.com/chrisdee/Tools/tree/master/Network/TCPView
   * Currports (outbound tcp)
     * https://github.com/chrisdee/Tools/tree/master/Network/CurrPorts
+
+# Windows Network crash course:
+ * Windows Domain Controllers
+   * https://youtu.be/cTe5GsyhKUk
